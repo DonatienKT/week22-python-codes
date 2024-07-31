@@ -1,0 +1,14 @@
+Job_name,Job_url,Job_color
+agent-job,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/agent-job/,blue
+ansible-playbook,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/ansible-playbook/,blue
+first-job,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/first-job/,blue
+first-pipeline-job,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/first-pipeline-job/,blue
+geo-solution,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/geo-solution/,blue
+job-with-parameter-project,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/job-with-parameter-project/,blue
+maven-project,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/maven-project/,blue
+nodejs-app,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/nodejs-app/,red
+nodejs-pipline,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/nodejs-pipline/,blue
+patching-sever,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/patching-sever/,blue_anime
+QA,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/QA/,
+run-script,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/run-script/,notbuilt
+terraform-code-dev-project,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/terraform-code-dev-project/,red
