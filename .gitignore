@@ -5,3 +5,5 @@ env/
 ./
 ../
 .gitignore
+.terraform
+.terraform.*
